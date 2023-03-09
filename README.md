@@ -123,7 +123,7 @@ To deactivate virtual environment
 
 ## Authors
 
-- [@amitkroutthedev](https://github.com/amitkroutthedev)
+- Amlan30
 
 
 ## Contributing
